@@ -1,39 +1,40 @@
 [
   [
     [
-      {}
-    ],
-    [
       {
-        "disciplineName": "Электромеханика и мехатроника",
-        "teacherName": "Шелегеда В.А.",
-        "auditorium": "108",
+        "disciplineName": "Микропроцессорная техника",
+        "teacherName": "Воронов А.Э.",
+        "auditorium": "107",
         "building": "12"
       }
     ],
     [
       {
-        "disciplineName": "Физ. Воспитание",
-        "teacherName": "",
-        "auditorium": "",
-        "building": ""
+        "disciplineName": "Цифровая обработка данных",
+        "teacherName": "Шаповалов В.Д.",
+        "auditorium": "102",
+        "building": "12"
       }
     ],
     [
       {
-        "disciplineName": "Базы данных",
-        "teacherName": "Стоянченко",
-        "auditorium": "33",
-        "building": "a"
+        "disciplineName": "Политология",
+        "teacherName": "Савченко",
+        "auditorium": "102",
+        "building": "2"
+      },
+      {
+        "disciplineName": "Социология",
+        "teacherName": "Яковенко",
+        "auditorium": "102",
+        "building": "2"
       }
     ],
     [
-      {
-        "disciplineName": "Методы оптимизации",
-        "teacherName": "Семин",
-        "auditorium": "222",
-        "building": "5"
-      }
+      {}
+    ],
+    [
+      {}
     ]
   ],
   [
@@ -41,49 +42,31 @@
       {}
     ],
     [
-      {
-        "disciplineName": "Электронные устройства СА",
-        "teacherName": "Малахов О.В.",
-        "auditorium": "105",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Схемотехника узлов автоматики",
-        "teacherName": "Малахов О.В.",
-        "auditorium": "105",
-        "building": "12"
-      },
-      {
-        "disciplineName": "ТАП",
-        "teacherName": "Сухов Д.А.",
-        "auditorium": "102",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Электронные устройства СА",
-        "teacherName": "Сухов Д.А.",
-        "auditorium": "105",
-        "building": "12"
-      },
-      {
-        "disciplineName": "Электромеханика и мехатроника",
-        "teacherName": "Левин В.В.",
-        "auditorium": "102",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Электромеханика и мехатроника",
-        "teacherName": "Левин В.В.",
-        "auditorium": "102",
-        "building": "12"
-      },
       {}
+    ],
+    [
+      {
+        "disciplineName": "Проектирование ИУС",
+        "teacherName": "Шелегеда В.А.",
+        "auditorium": "107",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Технические средства авт.",
+        "teacherName": "Малахов О.В.",
+        "auditorium": "102",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Микропроцессорная техника",
+        "teacherName": "Малахов О.В.",
+        "auditorium": "102",
+        "building": "12"
+      }
     ]
   ],
   [
@@ -91,31 +74,38 @@
       {
         "disciplineName": "Ин. Язык",
         "teacherName": "Мирошниченко",
-        "auditorium": "42",
-        "building": "a"
+        "auditorium": "407",
+        "building": "2"
       }
     ],
     [
       {
-        "disciplineName": "Методы оптимизации",
-        "teacherName": "Семин",
-        "auditorium": "315",
-        "building": "1"
+        "disciplineName": "Социология",
+        "teacherName": "Куцын",
+        "auditorium": "53",
+        "building": "а"
+      },
+      {
+        "disciplineName": "Политология",
+        "teacherName": "Ильина",
+        "auditorium": "53",
+        "building": "а"
       }
     ],
     [
       {
-        "disciplineName": "ТАП",
-        "teacherName": "Колесников А.В.",
-        "auditorium": "105",
+        "disciplineName": "Разработка систем авт.",
+        "teacherName": "Малахов О.В.",
+        "auditorium": "108",
         "building": "12"
       }
     ],
     [
+      {},
       {
-        "disciplineName": "Базы данных",
-        "teacherName": "Балалаечников",
-        "auditorium": "221",
+        "disciplineName": "Разработка систем авт.",
+        "teacherName": "Малахов О.В.",
+        "auditorium": "107",
         "building": "12"
       }
     ],
@@ -133,6 +123,57 @@
         "teacherName": "",
         "auditorium": "",
         "building": ""
+      }
+    ],
+    [
+      {
+        "disciplineName": "Автоматизация УЖЦП",
+        "teacherName": "Кратинов А.Г.",
+        "auditorium": "108",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Проектирование ИУС",
+        "teacherName": "Стоянченко С.С.",
+        "auditorium": "105",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Цифровая обработка данных",
+        "teacherName": "Шелегеда В.А., Щербаков Р.В.",
+        "auditorium": "107",
+        "building": "12"
+      }
+    ]
+  ],
+  [
+    [
+      {},
+      {
+        "disciplineName": "Разработка систем авт",
+        "teacherName": "Воронов А.Э., Щербаков Р.В.",
+        "auditorium": "107",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Технические средства авт.",
+        "teacherName": "Воронов А.Э., Щербаков Р.В.",
+        "auditorium": "105",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "ТАУ",
+        "teacherName": "Левин В.В.",
+        "auditorium": "116",
+        "building": "12"
       }
     ],
     [
@@ -144,48 +185,12 @@
       }
     ],
     [
-      {}
-    ],
-    [
-      {}
-    ]
-  ],
-  [
-    [
-      {},
       {
-        "disciplineName": "Схемотехника узлов автоматики",
-        "teacherName": "Воронов А.Э.",
+        "disciplineName": "Автоматизация УЖЦП",
+        "teacherName": "Кучер В.П.",
         "auditorium": "108",
         "building": "12"
       }
-    ],
-    [
-      {
-        "disciplineName": "ТАУ",
-        "teacherName": "Левин В.В.",
-        "auditorium": "105",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Системы ЧПУ",
-        "teacherName": "Кратинов А.Г.",
-        "auditorium": "107",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Системы ЧПУ",
-        "teacherName": "Кратинов А.Г.",
-        "auditorium": "102",
-        "building": "12"
-      }
-    ],
-    [
-      {}
     ]
   ]
 ]
