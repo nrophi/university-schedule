@@ -1,6 +1,90 @@
 [
   [
     [
+      {}
+    ],
+    [
+      {}
+    ],
+    [
+      {
+        "disciplineName": "Экономика",
+        "teacherName": "",
+        "auditorium": "409",
+        "building": "3"
+      },
+      {
+      }
+    ],
+    [
+      {
+        "disciplineName": "Экономика",
+        "teacherName": "Артемьев",
+        "auditorium": "315",
+        "building": "1"
+      }
+    ],
+    [
+      {},
+      {
+        "disciplineName": "Иностранный язык",
+        "teacherName": "",
+        "auditorium": "310а",
+        "building": "2"
+      }
+    ]
+  ],
+  [
+    [
+      {}
+    ],
+    [
+      {}
+    ],
+    [
+      {
+        "disciplineName": "Программирование контр.",
+        "teacherName": "Малахов О.В.",
+        "auditorium": "105",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Программирование контр.",
+        "teacherName": "Малахов О.В.",
+        "auditorium": "108",
+        "building": "12"
+      }
+    ],
+    [
+      {},
+      {
+        "disciplineName": "БЖД",
+        "teacherName": "Житная",
+        "auditorium": "302",
+        "building": "4"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "disciplineName": "Автоматизация тех. процессов",
+        "teacherName": "Сухов Д.А.",
+        "auditorium": "102",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Средства автоматизации",
+        "teacherName": "Кучер В.П.",
+        "auditorium": "107",
+        "building": "12"
+      }
+    ],
+    [
       {
         "disciplineName": "Микропроцессорная техника",
         "teacherName": "Воронов А.Э.",
@@ -10,27 +94,11 @@
     ],
     [
       {
-        "disciplineName": "Цифровая обработка данных",
-        "teacherName": "Шаповалов В.Д.",
-        "auditorium": "102",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Политология",
-        "teacherName": "Савченко",
-        "auditorium": "102",
+        "disciplineName": "БЖД",
+        "teacherName": "",
+        "auditorium": "301",
         "building": "2"
       },
-      {
-        "disciplineName": "Социология",
-        "teacherName": "Яковенко",
-        "auditorium": "102",
-        "building": "2"
-      }
-    ],
-    [
       {}
     ],
     [
@@ -42,22 +110,50 @@
       {}
     ],
     [
-      {}
-    ],
-    [
       {
-        "disciplineName": "Проектирование ИУС",
-        "teacherName": "Шелегеда В.А.",
+        "disciplineName": "Цифровая обработка сигналов",
+        "teacherName": "Шаповалов В.Д.",
         "auditorium": "107",
         "building": "12"
       }
     ],
     [
       {
-        "disciplineName": "Технические средства авт.",
-        "teacherName": "Малахов О.В.",
+        "disciplineName": "Цифровая обработка сигналов",
+        "teacherName": "Шаповалов В.Д.",
+        "auditorium": "107",
+        "building": "12"
+      },
+      {
+        "disciplineName": "Средства автоматизации",
+        "teacherName": "Кучер В.П.",
+        "auditorium": "107",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Средства автоматизации",
+        "teacherName": "Кучер В.П.",
+        "auditorium": "107",
+        "building": "12"
+      }
+    ],
+    [
+      {
+        "disciplineName": "Автоматизация тех. процессов",
+        "teacherName": "Кучер В.П.",
         "auditorium": "102",
         "building": "12"
+      }
+    ]
+  ],
+  [
+    [
+      {}
+    ],
+    [
+      {
       }
     ],
     [
@@ -67,128 +163,20 @@
         "auditorium": "102",
         "building": "12"
       }
-    ]
-  ],
-  [
-    [
-      {
-        "disciplineName": "Ин. Язык",
-        "teacherName": "Мирошниченко",
-        "auditorium": "407",
-        "building": "2"
-      }
     ],
     [
       {
-        "disciplineName": "Социология",
-        "teacherName": "Куцын",
-        "auditorium": "53",
-        "building": "а"
-      },
-      {
-        "disciplineName": "Политология",
-        "teacherName": "Ильина",
-        "auditorium": "53",
-        "building": "а"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Разработка систем авт.",
+        "disciplineName": "Средства автоматизации",
         "teacherName": "Малахов О.В.",
-        "auditorium": "108",
-        "building": "12"
-      }
-    ],
-    [
-      {},
-      {
-        "disciplineName": "Разработка систем авт.",
-        "teacherName": "Малахов О.В.",
-        "auditorium": "107",
-        "building": "12"
-      }
-    ],
-    [
-      {}
-    ]
-  ],
-  [
-    [
-      {}
-    ],
-    [
-      {
-        "disciplineName": "Физ. Воспитание",
-        "teacherName": "",
-        "auditorium": "",
-        "building": ""
-      }
-    ],
-    [
-      {
-        "disciplineName": "Автоматизация УЖЦП",
-        "teacherName": "Кратинов А.Г.",
-        "auditorium": "108",
+        "auditorium": "102",
         "building": "12"
       }
     ],
     [
       {
-        "disciplineName": "Проектирование ИУС",
-        "teacherName": "Стоянченко С.С.",
-        "auditorium": "105",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Цифровая обработка данных",
-        "teacherName": "Шелегеда В.А., Щербаков Р.В.",
-        "auditorium": "107",
-        "building": "12"
-      }
-    ]
-  ],
-  [
-    [
-      {},
-      {
-        "disciplineName": "Разработка систем авт",
-        "teacherName": "Воронов А.Э., Щербаков Р.В.",
-        "auditorium": "107",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Технические средства авт.",
-        "teacherName": "Воронов А.Э., Щербаков Р.В.",
-        "auditorium": "105",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "ТАУ",
-        "teacherName": "Левин В.В.",
-        "auditorium": "116",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "ТАУ",
+        "disciplineName": "Автоматизация тех. процессов",
         "teacherName": "Кучер В.П.",
-        "auditorium": "107",
-        "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Автоматизация УЖЦП",
-        "teacherName": "Кучер В.П.",
-        "auditorium": "108",
+        "auditorium": "102",
         "building": "12"
       }
     ]
