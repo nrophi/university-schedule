@@ -39,7 +39,12 @@
       {}
     ],
     [
-      {}
+      {
+        "disciplineName": "Цифровая обработка сигналов",
+        "teacherName": "Шаповалов В.Д.",
+        "auditorium": "105",
+        "building": "12"
+      }
     ],
     [
       {
@@ -115,14 +120,6 @@
         "teacherName": "Шаповалов В.Д.",
         "auditorium": "107",
         "building": "12"
-      }
-    ],
-    [
-      {
-        "disciplineName": "Цифровая обработка сигналов",
-        "teacherName": "Шаповалов В.Д.",
-        "auditorium": "107",
-        "building": "12"
       },
       {
         "disciplineName": "Средства автоматизации",
@@ -141,11 +138,14 @@
     ],
     [
       {
-        "disciplineName": "Автоматизация тех. процессов",
+        "disciplineName": "Автоматизация технологических процессов",
         "teacherName": "Кучер В.П.",
         "auditorium": "102",
         "building": "12"
       }
+    ],
+    [
+      {}
     ]
   ],
   [
